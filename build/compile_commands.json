@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/homework/hm1/build",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\gcc.exe  @CMakeFiles/algebra_app.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\algebra_app.dir\\src\\algebra.c.obj -c C:\\homework\\hm1\\XueTianyu_hm1\\src\\algebra.c",
+  "file": "C:/homework/hm1/XueTianyu_hm1/src/algebra.c",
+  "output": "CMakeFiles/algebra_app.dir/src/algebra.c.obj"
+},
+{
+  "directory": "C:/homework/hm1/build",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW64\\bin\\gcc.exe  @CMakeFiles/algebra_app.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\algebra_app.dir\\src\\main.c.obj -c C:\\homework\\hm1\\XueTianyu_hm1\\src\\main.c",
+  "file": "C:/homework/hm1/XueTianyu_hm1/src/main.c",
+  "output": "CMakeFiles/algebra_app.dir/src/main.c.obj"
+}
+]

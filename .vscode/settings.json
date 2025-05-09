@@ -16,5 +16,13 @@
             "command": "extension.execute",
             "priority": 4
         }
-    ]
-}
+    ],
+    
+        "cmake.generator": "MinGW Makefiles",
+        "cmake.configureArgs": [
+            "-DCMAKE_C_COMPILER=C:\\x86_64-15.1.0-release-win32-seh-ucrt-rt_v12-rev0\\mingw64\\bin\\x86_64-w64-mingw32-gcc.exe",
+            "-DCMAKE_CXX_COMPILER=C:\\x86_64-15.1.0-release-win32-seh-ucrt-rt_v12-rev0\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe",
+            "-DCMAKE_MAKE_PROGRAM=mingw32-make.exe"
+        ],
+        "cmake.buildDirectory": "${workspaceFolder}/build"
+    }
